@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Email,Phone,Address,City,State,ZipCode,Country,DateOfBirth,RegistrationDate
+1,John,Doe,johndoe@example.com,555-123-4567,123 Maple St,Chicago,IL,60601,USA,1985-05-15,2023-01-12
+2,Jane,Smith,janesmith@example.com,555-234-5678,456 Oak Ave,Evanston,IL,60201,USA,1990-08-22,2023-03-19
+3,Bob,Johnson,bobjohnson@example.com,555-345-6789,789 Pine Rd,Naperville,IL,60540,USA,1978-11-30,2022-11-05
+4,Alice,Williams,alicew@example.com,555-456-7890,321 Birch Ln,Bloomington,IL,61701,USA,1988-02-10,2023-06-21
+5,Michael,Brown,michaelb@example.com,555-567-8901,654 Cedar Blvd,Peoria,IL,61602,USA,1975-09-14,2023-04-15
+6,Susan,Jones,susanj@example.com,555-678-9012,987 Spruce Ct,Rockford,IL,61101,USA,1992-06-17,2022-12-09
+7,Chris,Davis,chrisd@example.com,555-789-0123,147 Elm St,Champaign,IL,61820,USA,1983-01-25,2023-02-28
+8,Karen,Miller,karenm@example.com,555-890-1234,258 Willow Dr,Springfield,IL,62701,USA,1995-12-05,2023-05-07
+9,David,Wilson,davidw@example.com,555-901-2345,369 Poplar Way,Decatur,IL,62521,USA,1979-07-19,2023-01-30
+10,Patricia,Moore,patriciam@example.com,555-012-3456,741 Walnut St,Joliet,IL,60431,USA,1987-10-02,2022-10-22
