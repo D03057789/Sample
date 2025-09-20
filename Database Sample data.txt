@@ -1,5 +1,0 @@
-OrderID,CustomerID,FirstName,LastName,Email,Phone,Address,City,State,ZipCode,Country,DateOfBirth,RegistrationDate,OrderDate,ProductID,ProductName,Quantity,SalesPrice,CostPrice,TotalSales,TotalCost,PaymentMethod,OrderStatus
-1001,1,John,Doe,johndoe@example.com,555-123-4567,123 Maple St,Chicago,IL,60601,USA,1985-05-15,2023-01-12,2023-09-01,2001,Wireless Mouse,2,25.00,10.00,50.00,20.00,Credit Card,Completed
-1002,2,Jane,Smith,janesmith@example.com,555-234-5678,456 Oak Ave,Evanston,IL,60201,USA,1990-08-22,2023-03-19,2023-09-03,2002,USB Keyboard,1,45.00,20.00,45.00,20.00,Cash,Completed
-1003,3,Bob,Johnson,bobjohnson@example.com,555-345-6789,789 Pine Rd,Naperville,IL,60540,USA,1978-11-30,2022-11-05,2023-09-05,2003,27" Monitor,1,200.00,150.00,200.00,150.00,Credit Card,Shipped
-1004,1,John,Doe,johndoe@example.com,555-123-4567,123 Maple St,Chicago,IL,60601,USA,1985-05-15,2023-01-12,2023-09-06,2004,HDMI Cable,3,12.00,3.00,36.00,9.00,Gift Card,Completed
