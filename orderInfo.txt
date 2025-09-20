@@ -1,0 +1,11 @@
+OrderID,CustomerID,OrderDate,ProductID,ProductName,Quantity,SalesPrice,CostPrice,TotalSales,TotalCost,PaymentMethod,OrderStatus,StoreLocation,SalesEmployee,Discount
+1001,1,2023-09-01,2001,Wireless Mouse,2,25.00,10.00,50.00,20.00,Credit Card,Completed,Chicago,Emily Watts,0
+1002,2,2023-09-03,2002,USB Keyboard,1,45.00,20.00,45.00,20.00,Cash,Completed,Evanston,Tom Blake,5
+1003,3,2023-09-05,2003,27" Monitor,1,200.00,150.00,200.00,150.00,Credit Card,Shipped,Naperville,Emily Watts,10
+1004,1,2023-09-06,2004,HDMI Cable,3,12.00,3.00,36.00,9.00,Gift Card,Completed,Chicago,Bob Lane,0
+1005,4,2023-09-07,2005,Webcam,1,90.00,40.00,90.00,40.00,Debit Card,Completed,Bloomington,Amy Kirk,0
+1006,1,2023-09-08,2006,Laptop Stand,1,50.00,22.00,50.00,22.00,Credit Card,Pending,Chicago,Emily Watts,0
+1007,5,2023-09-08,2007,USB Hub,2,18.00,7.00,36.00,14.00,Credit Card,Shipped,Peoria,Tom Blake,2
+1008,6,2023-09-09,2008,Desk Lamp,1,28.00,11.00,28.00,11.00,Cash,Completed,Rockford,Amy Kirk,0
+1009,7,2023-09-09,2009,Mouse Pad,4,8.00,2.80,32.00,11.20,Debit Card,Pending,Champaign,Bob Lane,0
+1010,8,2023-09-10,2010,Smartphone Tripod,1,35.00,14.00,35.00,14.00,Credit Card,Completed,Springfield,Emily Watts,0
